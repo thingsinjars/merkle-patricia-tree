@@ -1,6 +1,7 @@
 package-lock.json
 node_modules
 dist/
+.nyc_output/
 
 /baseTrie.js
 /checkpointTrie.js
